@@ -1,0 +1,20 @@
+# BEGIN_KITTY_THEME
+# Catppuccin-Mocha
+include current-theme.conf
+# END_KITTY_THEME
+
+# BEGIN_KITTY_FONT
+font_family      Jetbrains Mono Nerd Font
+italic_font      auto
+bold_font        auto
+bold_italic_font auto
+font_size 14.0
+# END_KITTY_FONT
+
+# BEGIN_KITTY_BACKGROUND
+background_opacity 1.0
+# END_KITTY_BACKGROUND
+
+# BEGIN_KITTY_CURSOR
+cursor_trail 3
+# END_KITTY_CURSOR
